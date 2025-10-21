@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou **Breno de Souza Guedes**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Olá! Eu sou **Breno de Souza Guedes**
 
 💻 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🎓 Atualmente cursando o **segundo módulo no IFPI – Campus Corrente**  
@@ -40,8 +40,3 @@ Atualmente participando de projetos acadêmicos de desenvolvimento de software, 
 - Projetos interessantes de **C e Java**  
 - Desenvolvimento de **pequenas ferramentas e scripts**  
 - Aprendizado conjunto em projetos de estudo  
-
----
-
-## 👋 Saudação Animada
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
