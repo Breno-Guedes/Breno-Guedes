@@ -12,7 +12,6 @@
     <a href="https://github.com/Breno-Guedes?tab=repositories">
       <img src="https://img.shields.io/badge/Reposit%C3%B3rios-Visitar-161B22?style=for-the-badge&logo=github" alt="Repositórios" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Breno-Guedes&style=for-the-badge&color=238636&label=VISITAS+NO+PERFIL" alt="Visitas no perfil" />
   </p>
 </div>
 
